@@ -1,2 +1,2 @@
 # LearnToJSTutorial
-Learn JS in a downloadable tutorial
+Learn JS in a tutorial
